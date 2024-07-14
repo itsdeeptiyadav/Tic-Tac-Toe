@@ -8,6 +8,9 @@ body{
     background-color: rgb(232, 184, 191);
     text-align: center;
 }
+h1{
+    font-size: 50px;
+}
 .container{
     height:70vh;
     display:flex;
@@ -27,5 +30,30 @@ body{
 .box{
     height:18vmin;
     width:18vmin;
-    
+    font-size:8vmin;
+    border-radius:3px;
+    border:none;
+    background-color: #fff;
+    color:#191913
+}
+#Reset{
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: #191913;
+    color:#fff;
+    width:110px;
+}
+#new-btn{
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: #191913;
+    color:#fff;
+    margin:15px;
+}
+#msg{
+    font-size: 8vmin;
+    color:black
+}
+.hide{
+    display:none;
 }
