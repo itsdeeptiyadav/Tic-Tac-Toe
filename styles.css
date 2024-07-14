@@ -31,21 +31,21 @@ h1{
     height:18vmin;
     width:18vmin;
     font-size:8vmin;
-    border-radius:3px;
+    border-radius:6px;
     border:none;
     background-color: #fff;
     color:#191913
 }
 #Reset{
     padding: 1rem;
-    font-size: 1rem;
+    font-size: 1.3rem;
     background-color: #191913;
     color:#fff;
     width:110px;
 }
 #new-btn{
     padding: 1rem;
-    font-size: 1rem;
+    font-size: 1.3rem;
     background-color: #191913;
     color:#fff;
     margin:15px;
